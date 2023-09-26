@@ -2,7 +2,8 @@
 
 ## I am a Backend Developer, Data Engineer, Technical Writer, and Open-Source Enthusiast
 
-![Blue Pink Gradient Fashion Banner](https://github.com/Oguntunjiharlimatodunola/Oguntunjiharlimatodunola/assets/109049037/85ddf509-369b-45b7-b6ca-b1ebc945f31b)
+![Blue Pink Gradient Fashion Banner](https://github.com/Lymah123/Lymah123/assets/109049037/5b3d22ac-a99d-404f-aa0a-fae11bccfee1)
+
 
 - 🔭 I’m currently working on data engineering and backend development projects.
 - 🌱 I’m currently learning AI engineering
@@ -13,5 +14,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cooking. When I am not on screen for tech, I watch Korean movies.
 
-![Blue Gradient Header Banner](https://github.com/Oguntunjiharlimatodunola/Oguntunjiharlimatodunola/assets/109049037/029263c4-a9c4-4f30-aa25-d2a88bad28aa)
+![Blue Gradient Header Banner](https://github.com/Lymah123/Lymah123/assets/109049037/da6a1f85-eebc-4156-b187-8c83d5986242)
 
