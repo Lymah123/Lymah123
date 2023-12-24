@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open-source Projects
 - 🤔 I’m looking for help with AI engineering documentation
 - 💬 Ask me about tech-related stuff
-- 📫 How to reach me: Twiter- [lymah_real](https://twitter.com/Lymah_real) | LinkedIn - [Harlimat Odunola](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
+- 📫 How to reach me: Twiter- [CodesLymah](https://twitter.com/CodesLymah) | LinkedIn - [Harlimat Odunola](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cooking. When I am not on screen for tech, I watch Korean movies.
 
