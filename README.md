@@ -1,5 +1,4 @@
-### Hi there, I am Harlimat Odunola! 👋
-
+### Hi there, I am Harlimat Odunola! 👋 You can call me LYMAH.
 
 ## I am a Backend Developer, Data Engineer, Technical Writer, and Open-Source Enthusiast
 
