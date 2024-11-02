@@ -2,13 +2,11 @@
 
 ## I am a Software Engineer, a Technical Writer, and Open-Source Enthusiast
 
-![Blue Pink Gradient Fashion Banner](https://github.com/Lymah123/Lymah123/assets/109049037/5b3d22ac-a99d-404f-aa0a-fae11bccfee1)
 
-
-- 🔭 I’m currently working on data engineering and backend development projects.
-- 🌱 I’m currently learning AI engineering
+- 🔭 I’m currently working on creating reusable components.
+- 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on open-source Projects
-- 🤔 I’m looking for help with AI engineering documentation
+- 🤔 I’m looking for help on leet coding resources and web5 resources.
 - 💬 Ask me about tech-related stuff
 - 📫 How to reach me: Twiter- [CodesLymah](https://twitter.com/CodesLymah) | LinkedIn - [Harlimat Odunola](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 Pronouns: She/Her
