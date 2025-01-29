@@ -9,7 +9,7 @@ Passionate about building impactful software, exploring emerging technologies, a
 ### About Me
 
 - 🔭 **Currently:** Building projects and enhancing problem-solving skills on LeetCode.
-- 🌱 **Learning:** Web3 technologies and exploring Web5.
+- 🌱 **Learning:** I am currently Rust programming language.
 - 👯 **Collaborating:** Actively contributing to open-source projects.
 - 🤔 **Looking for:** Resources on advanced algorithms and emerging Web5 technologies.
 - 💬 **Ask me about:** Software development, technical writing, or open-source contributions.
