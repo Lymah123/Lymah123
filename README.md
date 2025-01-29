@@ -11,7 +11,7 @@ Passionate about building impactful software, exploring emerging technologies, a
 - 🔭 **Currently:** Building projects and enhancing problem-solving skills on LeetCode.
 - 🌱 **Learning:** I am currently Rust programming language.
 - 👯 **Collaborating:** Actively contributing to open-source projects.
-- 🤔 **Looking for:** Resources on advanced algorithms and emerging Web5 technologies.
+- 🤔 **Looking for:** Resources on advanced algorithms and emerging Web3 technologies.
 - 💬 **Ask me about:** Software development, technical writing, or open-source contributions.
 - 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 **Pronouns:** She/Her
