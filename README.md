@@ -1,6 +1,7 @@
 ## Hi there, I'm Halimah Odunola! 👋 (aka LYMAH)
 
 **Software Engineer | Technical Writer | Open-Source Enthusiast**
+
 Passionate about building impactful software, exploring emerging technologies, and contributing to the open-source ecosystem.
 
 ---
@@ -26,11 +27,13 @@ Passionate about building impactful software, exploring emerging technologies, a
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 
 - **Frameworks & Libraries:**
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  ![Phoenix](https://img.shields.io/badge/-Phoenix-400080?style=flat&logo=phoenix&logoColor=white)
 
 - **Databases:**
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -56,12 +59,20 @@ Passionate about building impactful software, exploring emerging technologies, a
 
 ### Blog Posts
 
-🚀 Check out my latest articles:
-<!-- BLOG-POST-LIST:START -->
-- [How to Build Scalable Web Apps with Go](https://dev.to/lymah/post1)
-- [Mastering React State Management](https://dev.to/lymah/post2)
-- [An Introduction to Web3 Development](https://dev.to/lymah/post3)
-<!-- BLOG-POST-LIST:END -->
+@app.route('/readme', methods=['GET'])
+def generate_readme():
+    streak = get_streak().get_json()
+    markdown = f"""
+
+    ### Blog Reading Streak
+
+    - **Current Streak:** {streak['current_streak']} days
+    - **Max Streak:** {streak['max_streak']} days
+    - **Blogs Read This Week:** {sum(reading_log.values())}
+
+    ![Blog Streak](https://img.shields.io/badge/Blog_Streak-{streak['current_streak']}_days-green)
+    """
+    return markdown
 
 ---
 
