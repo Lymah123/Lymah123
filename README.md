@@ -30,6 +30,8 @@ Passionate about building impactful software, exploring emerging technologies, a
   ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 
 - **Frameworks & Libraries:**
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
