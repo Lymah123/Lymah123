@@ -1,14 +1,30 @@
 ## Hi there, I'm Halimah Odunola! 👋 (aka LYMAH)
 
-**Software Engineer | Technical Writer | Open-Source Enthusiast**
 
-Passionate about building impactful software, exploring emerging technologies, and contributing to the open-source ecosystem.
+<img src="https://media1.tenor.com/m/xei0iF6HWToAAAAd/pjsk-pjsk-anime.gif" width="1600" alt="PJSK Anime Programmer Animation" />
+
+
+**Software Engineer | Technical Writer | Open-Source Enthusiast | Problem Solver**
+
+Passionate about crafting elegant solutions to complex problems through code. I thrive on building impactful software that makes a difference, exploring cutting-edge technologies, and actively contributing to the open-source ecosystem. My mission is to create accessible and innovative applications while sharing knowledge through technical writing that bridges gaps in the developer community.
 
 ---
 
 ### About This Repository
 
-This repository contains my GitHub profile README. It showcases my skills, projects, and contributing to the open source ecosystem.
+This repository contains my GitHub profile README, serving as my digital portfolio and introduction to the developer community. It showcases my technical skills, ongoing projects, and contributions to the open source ecosystem.
+
+The README is designed to:
+
+- 🌟 Highlight my journey as a developer and the technologies I've mastered
+- 📂 Provide easy access to my most significant projects and contributions
+- 🔍 Reflect my coding philosophy and approach to problem-solving
+- 🤝 Invite collaboration opportunities with like-minded developers
+- 📈 Document my growth and learning path in software development
+- 🔗 Connect visitors to my professional networks and communication channels
+
+I regularly update this profile to ensure it accurately represents my current skills, interests, and achievements in the tech world. Feel free to explore my repositories to see my coding style and the projects I'm passionate about!
+stem.
 
 ---
 
@@ -21,7 +37,7 @@ This repository contains my GitHub profile README. It showcases my skills, proje
 - 💬 **Ask me about:** Software development, technical writing, or open-source contributions.
 - 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** A proud coffee enthusiast and self-proclaimed coffee snob.
+- ⚡ **Fun fact:** In a world of programmer anime fans, I'm the outlier who names variables after Korean drama characters. Yes, my error messages are dramatic too.
 
 ---
 
@@ -29,7 +45,6 @@ This repository contains my GitHub profile README. It showcases my skills, proje
 
 - **Languages:**
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -67,20 +82,16 @@ This repository contains my GitHub profile README. It showcases my skills, proje
 
 ### Blog Posts
 
-@app.route('/readme', methods=['GET'])
-def generate_readme():
-    streak = get_streak().get_json()
-    markdown = f"""
+<!-- Static representation of blog stats -->
+### Blog Reading Streak
 
-    ### Blog Reading Streak
+- **Current Streak:** 7 days
+- **Max Streak:** 14 days
+- **Blogs Read This Week:** 5
 
-    - **Current Streak:** {streak['current_streak']} days
-    - **Max Streak:** {streak['max_streak']} days
-    - **Blogs Read This Week:** {sum(reading_log.values())}
+![Blog Streak](https://img.shields.io/badge/Blog_Streak-7_days-green)
 
-    ![Blog Streak](https://img.shields.io/badge/Blog_Streak-{streak['current_streak']}_days-green)
-    """
-    return markdown
+<!-- You can manually update these numbers or replace with links to recent blog posts -->
 
 ---
 
