@@ -4,9 +4,9 @@
 <img src="https://media1.tenor.com/m/xei0iF6HWToAAAAd/pjsk-pjsk-anime.gif" width="1600" alt="PJSK Anime Programmer Animation" />
 
 
-**Software Engineer | Technical Writer | Open-Source Enthusiast | Problem Solver**
+**Software Engineer | Technical Writer | Open Source Enthusiast**
 
-Passionate about crafting elegant solutions to complex problems through code. I thrive on building impactful software that makes a difference, exploring cutting-edge technologies, and actively contributing to the open-source ecosystem. My mission is to create accessible and innovative applications while sharing knowledge through technical writing that bridges gaps in the developer community.
+Passionate about crafting elegant solutions to complex problems through code. I thrive on building impactful software that makes a difference, exploring cutting-edge technologies, and actively contributing to the open source ecosystem. My mission is to create accessible and innovative applications while sharing knowledge through technical writing that bridges gaps in the developer community.
 
 ---
 
@@ -24,7 +24,6 @@ The README is designed to:
 - 🔗 Connect visitors to my professional networks and communication channels
 
 I regularly update this profile to ensure it accurately represents my current skills, interests, and achievements in the tech world. Feel free to explore my repositories to see my coding style and the projects I'm passionate about!
-stem.
 
 ---
 
@@ -32,8 +31,8 @@ stem.
 
 - 🔭 **Currently:** Building projects and enhancing problem-solving skills on LeetCode.
 - 🌱 **Learning:** I am currently learning Rust programming language.
-- 👯 **Collaborating:** Actively contributing to open-source projects.
-- 🤔 **Looking for:** Resources on advanced algorithms and emerging Web3 technologies.
+- 👯 **Collaborating:** Actively contributing to open source projects.
+- 🤔 **Looking for:** Resources on advanced algorithms, emerging blockchain technologies, and AI.
 - 💬 **Ask me about:** Software development, technical writing, or open-source contributions.
 - 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 **Pronouns:** She/Her
@@ -46,6 +45,7 @@ stem.
 - **Languages:**
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
@@ -53,6 +53,7 @@ stem.
 - **Frameworks & Libraries:**
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
