@@ -30,10 +30,10 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### About Me
 
 - 🔭 **Currently:** Building projects and enhancing problem-solving skills on LeetCode.
-- 🌱 **Learning:** I am currently learning Rust programming language.
+- 🌱 **Learning:** I am currently learning Java programming language.
 - 👯 **Collaborating:** Actively contributing to open source projects.
 - 🤔 **Looking for:** Resources on advanced algorithms, emerging blockchain technologies, and AI.
-- 💬 **Ask me about:** Software development, technical writing, or open-source contributions.
+- 💬 **Ask me about:** Software development, technical writing, or open source contributions.
 - 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** In a world of programmer anime fans, I'm the outlier who names variables after Korean drama characters. Yes, my error messages are dramatic too.
@@ -43,9 +43,8 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### Tech Stack
 
 - **Languages:**
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
@@ -53,7 +52,6 @@ I regularly update this profile to ensure it accurately represents my current sk
 - **Frameworks & Libraries:**
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
@@ -83,18 +81,16 @@ I regularly update this profile to ensure it accurately represents my current sk
 
 ### Blog Posts
 
-<!-- Static representation of blog stats -->
-### Blog Reading Streak
+### 📝 Recent Blog Posts
 
-- **Current Streak:** 7 days
-- **Max Streak:** 14 days
-- **Blogs Read This Week:** 5
+<!-- BLOG-POST-LIST:START -->
+- [Building a Tic-Tac-Toe Game with Rust, Bevy, and WebAssembly](https://dev.to/lymah/building-a-tic-tac-toe-game-with-rust-bevy-and-webassembly-11l6)
+- [🦀 Week 3 of Learning Rust: Match, Patterns, and the Power of Methods](https://dev.to/lymah/week-3-of-learning-rust-match-patterns-and-the-power-of-methods-3ed4)
+- [Algorithms: The Invisible Code Shaping The World](https://dev.to/lymah/algorithms-the-invisible-code-shaping-the-world-1h7b)
+- [Building in Public: Leveraging Tublian's AI Copilot for My Open Source Contributions](https://dev.to/lymah/building-in-public-leveraging-tublians-ai-copilot-for-my-open-source-contributions-3591)
+<!-- BLOG-POST-LIST:END -->
 
-![Blog Streak](https://img.shields.io/badge/Blog_Streak-7_days-green)
-
-<!-- You can manually update these numbers or replace with links to recent blog posts -->
-
----
+➡️ [Read more articles on my blog](https://dev.to/lymah)
 
 ### Profile Insights
 
