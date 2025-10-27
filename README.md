@@ -84,10 +84,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with goose on Windows](https://dev.to/lymah/getting-started-with-goose-on-windows-30bh)
+- [Best Practices for Prompt Engineering with goose](https://dev.to/lymah/best-practices-for-prompt-engineering-with-goose-3m6h)
+- [Deep Dive into goose's Extension System and Model Context Protocol (MCP)](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
+
 - [Building a Tic-Tac-Toe Game with Rust, Bevy, and WebAssembly](https://dev.to/lymah/building-a-tic-tac-toe-game-with-rust-bevy-and-webassembly-11l6)
-- [🦀 Week 3 of Learning Rust: Match, Patterns, and the Power of Methods](https://dev.to/lymah/week-3-of-learning-rust-match-patterns-and-the-power-of-methods-3ed4)
-- [Algorithms: The Invisible Code Shaping The World](https://dev.to/lymah/algorithms-the-invisible-code-shaping-the-world-1h7b)
-- [Building in Public: Leveraging Tublian's AI Copilot for My Open Source Contributions](https://dev.to/lymah/building-in-public-leveraging-tublians-ai-copilot-for-my-open-source-contributions-3591)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
