@@ -4,6 +4,8 @@ on:
     # daily at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -12,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
