@@ -84,11 +84,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Effective Prompts and Workflows for Code Review with goose](https://dev.to/lymah/building-effective-prompts-and-workflows-for-code-review-with-goose-51m1)
 - [Configuring goose for Team Environments and Shared Workflows](https://dev.to/lymah/configuring-goose-for-team-environments-and-shared-workflows-5ehn)
 - [Deep Dive into goose&#39;s Extension System and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
 - [Best Practices for Prompt Engineering with goose](https://dev.to/lymah/best-practices-for-prompt-engineering-with-goose-3m6h)
 - [Getting started with goose on Windows](https://dev.to/lymah/getting-started-with-goose-on-windows-30bh)
-- [Building a Tic-Tac-Toe Game with Rust, Bevy, and WebAssembly](https://dev.to/lymah/building-a-tic-tac-toe-game-with-rust-bevy-and-webassembly-11l6)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
