@@ -84,11 +84,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution](https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba)
+- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3)
 - [Building Effective Prompts and Workflows for Code Review with goose](https://dev.to/lymah/building-effective-prompts-and-workflows-for-code-review-with-goose-51m1)
 - [Configuring goose for Team Environments and Shared Workflows](https://dev.to/lymah/configuring-goose-for-team-environments-and-shared-workflows-5ehn)
 - [Deep Dive into goose&#39;s Extension System and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
-- [Best Practices for Prompt Engineering with goose](https://dev.to/lymah/best-practices-for-prompt-engineering-with-goose-3m6h)
-- [Getting started with goose on Windows](https://dev.to/lymah/getting-started-with-goose-on-windows-30bh)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
