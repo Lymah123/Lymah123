@@ -84,9 +84,7 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with goose on Windows](https://dev.to/lymah/getting-started-with-goose-on-windows-30bh)
-- [Best Practices for Prompt Engineering with goose](https://dev.to/lymah/best-practices-for-prompt-engineering-with-goose-3m6h)
-- [Deep Dive into goose's Extension System and Model Context Protocol (MCP)](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
 
 - [Building a Tic-Tac-Toe Game with Rust, Bevy, and WebAssembly](https://dev.to/lymah/building-a-tic-tac-toe-game-with-rust-bevy-and-webassembly-11l6)
 <!-- BLOG-POST-LIST:END -->
