@@ -85,9 +85,13 @@ I regularly update this profile to ensure it accurately represents my current sk
 
 <!-- BLOG-POST-LIST:START -->
 - [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
-
 - [Building an AI Blog Generator with FastAPI, React, and Hugging Face (Part 2)](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
 - [Building a Tic-Tac-Toe Game with Rust, Bevy, and WebAssembly](https://dev.to/lymah/building-a-tic-tac-toe-game-with-rust-bevy-and-webassembly-11l6)
+- [Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution](https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba)
+- [Building Effective Prompts and Workflows for Code Review with goose](https://dev.to/lymah/building-effective-prompts-and-workflows-for-code-review-with-goose-51m1)
+- [Configuring goose for Team Environments and Shared Workflows](https://dev.to/lymah/configuring-goose-for-team-environments-and-shared-workflows-5ehn)
+- [Deep Dive into goose&#39;s Extension System and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
+- [Best Practices for Prompt Engineering with goose](https://dev.to/lymah/best-practices-for-prompt-engineering-with-goose-3m6h)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
