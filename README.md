@@ -86,6 +86,7 @@ I regularly update this profile to ensure it accurately represents my current sk
 <!-- BLOG-POST-LIST:START -->
 - [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
 
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face (Part 2)](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
 - [Building a Tic-Tac-Toe Game with Rust, Bevy, and WebAssembly](https://dev.to/lymah/building-a-tic-tac-toe-game-with-rust-bevy-and-webassembly-11l6)
 <!-- BLOG-POST-LIST:END -->
 
