@@ -1,7 +1,7 @@
 ## Hi there, I'm Halimah Odunola! 👋 (aka LYMAH)
 
 
-<img src="https://media1.tenor.com/m/xei0iF6HWToAAAAd/pjsk-pjsk-anime.gif" width="1600" alt="PJSK Anime Programmer Animation" />
+<img src="https://media1.tenor.com/m/xei0iF6HWToAAAAd/pjsk-pjsk-anime.gif" width="100%" alt="PJSK Anime Programmer Animation" />
 
 
 **Software Engineer | Technical Writer | Open Source Enthusiast**
@@ -30,9 +30,9 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### About Me
 
 - 🔭 **Currently:** Building projects and enhancing problem-solving skills on LeetCode.
-- 🌱 **Learning:** I am currently learning Java programming language.
+- 🌱 **Learning:** I am exploring system engineering.
 - 👯 **Collaborating:** Actively contributing to open source projects.
-- 🤔 **Looking for:** Resources on advanced algorithms, emerging blockchain technologies, and AI.
+- 🤔 **Looking for:** Resources on system programming, Nix and AI.
 - 💬 **Ask me about:** Software development, technical writing, or open source contributions.
 - 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
 - 😄 **Pronouns:** She/Her
@@ -75,11 +75,9 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### GitHub Stats
 
 ![Lymah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lymah123&show_icons=true&theme=radical&count_private=true)
-![Lymah's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lymah123&theme=radical)
+![Lymah's Contribution Streak](https://streak-stats.demolab.com/?user=Lymah123&theme=radical)
 
 ---
-
-### Blog Posts
 
 ### 📝 Recent Blog Posts
 
