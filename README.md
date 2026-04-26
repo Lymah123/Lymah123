@@ -82,11 +82,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
 - [From Localhost to Production: Deploying an AI Blog Generator &lpar;FastAPI + React&rpar;](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
 - [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
 - [Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution](https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba)
 - [Building Effective Prompts and Workflows for Code Review with goose](https://dev.to/lymah/building-effective-prompts-and-workflows-for-code-review-with-goose-51m1)
-- [Configuring goose for Team Environments and Shared Workflows](https://dev.to/lymah/configuring-goose-for-team-environments-and-shared-workflows-5ehn)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
