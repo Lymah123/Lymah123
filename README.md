@@ -82,11 +82,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Solana Transactions Are Different from REST API Calls &lpar;And Why It Matters&rpar;](https://dev.to/lymah/how-solana-transactions-are-different-from-rest-api-calls-and-why-it-matters-4lgc)
+- [I Built a Permissionless On-Chain Agent Training Arena on Solana in 3 Weeks](https://dev.to/lymah/i-built-a-permissionless-on-chain-agent-training-arena-on-solana-in-3-weeks-2on2)
 - [From &quot;Just Data&quot; to &quot;A Global Database&quot;: My Second Week Learning Solana](https://dev.to/lymah/from-just-data-to-a-global-database-my-second-week-learning-solana-5f4m)
 - [Traditional Database vs Solana Accounts Comparison](https://dev.to/lymah/traditional-database-vs-solana-accounts-comparison-8k2)
 - [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
-- [From Localhost to Production: Deploying an AI Blog Generator &lpar;FastAPI + React&rpar;](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
-- [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
