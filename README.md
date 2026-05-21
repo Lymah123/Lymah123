@@ -82,11 +82,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Solana Account Data: Three Methods Compared](https://dev.to/lymah/decoding-solana-account-data-three-methods-compared-4356)
 - [Building a Solana Account Explorer: Query On-Chain Data Like a Database](https://dev.to/lymah/building-a-solana-account-explorer-query-on-chain-data-like-a-database-293d)
 - [# Week 4: Understanding Solana’s Account Model as a Web2 Developer](https://dev.to/lymah/-week-4-understanding-solanas-account-model-as-a-web2-developer-5329)
 - [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
 - [How Solana Transactions Are Different from REST API Calls &lpar;And Why It Matters&rpar;](https://dev.to/lymah/how-solana-transactions-are-different-from-rest-api-calls-and-why-it-matters-4lgc)
-- [I Built a Permissionless On-Chain Agent Training Arena on Solana in 3 Weeks](https://dev.to/lymah/i-built-a-permissionless-on-chain-agent-training-arena-on-solana-in-3-weeks-2on2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
