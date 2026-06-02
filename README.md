@@ -82,11 +82,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Soulbound Credentials on Solana: Building Revocable Tokens with Non-Transferable + Permanent Delegate](https://dev.to/lymah/soulbound-credentials-on-solana-building-revocable-tokens-with-non-transferable-permanent-5h2a)
 - [Transfer Fees, Metadata, and Soulbound Tokens: A Tour of Solana Token Extensions](https://dev.to/lymah/transfer-fees-metadata-and-soulbound-tokens-a-tour-of-solana-token-extensions-la1)
 - [Solana&#39;s System Program: Understanding the Kernel](https://dev.to/lymah/solanas-system-program-understanding-the-kernel-19il)
 - [Decoding Solana Account Data: Three Methods Compared](https://dev.to/lymah/decoding-solana-account-data-three-methods-compared-4356)
 - [Building a Solana Account Explorer: Query On-Chain Data Like a Database](https://dev.to/lymah/building-a-solana-account-explorer-query-on-chain-data-like-a-database-293d)
-- [# Week 4: Understanding Solana’s Account Model as a Web2 Developer](https://dev.to/lymah/-week-4-understanding-solanas-account-model-as-a-web2-developer-5329)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
