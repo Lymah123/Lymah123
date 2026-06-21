@@ -82,11 +82,11 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Counter Program in Anchor and Learned to Trust My Tests](https://dev.to/lymah/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-1akg)
 - [Three Token-2022 Mints in One Week: Fees, Yield, and Soulbound](https://dev.to/lymah/three-token-2022-mints-in-one-week-fees-yield-and-soulbound-1nn0)
 - [Solana NFTs Without Metaplex: What I Built with Token Extensions published](https://dev.to/lymah/solana-nfts-without-metaplex-what-i-built-with-token-extensionspublished-7do)
 - [Soulbound Credentials on Solana: Building Revocable Tokens with Non-Transferable + Permanent Delegate](https://dev.to/lymah/soulbound-credentials-on-solana-building-revocable-tokens-with-non-transferable-permanent-5h2a)
 - [Transfer Fees, Metadata, and Soulbound Tokens: A Tour of Solana Token Extensions](https://dev.to/lymah/transfer-fees-metadata-and-soulbound-tokens-a-tour-of-solana-token-extensions-la1)
-- [Solana&#39;s System Program: Understanding the Kernel](https://dev.to/lymah/solanas-system-program-understanding-the-kernel-19il)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
