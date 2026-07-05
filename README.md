@@ -85,10 +85,10 @@ I regularly update this profile to ensure it accurately represents my current sk
 - [Coming from Web2, Token-2022 taught me that some of the hardest bugs aren&#39;t failed transactions; they&#39;re successful transactions with incorrect outcomes.
 
 Here are five mistakes I wish I&#39;d known sooner.](https://dev.to/lymah/coming-from-web2-token-2022-taught-me-that-some-of-the-hardest-bugs-arent-failed-transactions-33of)
+- [CPIs and PDA Signers: What I Built and What Actually Clicked](https://dev.to/lymah/cpis-and-pda-signers-what-i-built-and-what-actually-clicked-m6d)
 - [5 Token-2022 Mistakes I Made So You Don&#39;t Have To](https://dev.to/lymah/5-token-2022-mistakes-i-made-so-you-dont-have-to-5e0b)
 - [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
 - [How I Built a Counter Program in Anchor and Learned to Trust My Tests](https://dev.to/lymah/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-1akg)
-- [Three Token-2022 Mints in One Week: Fees, Yield, and Soulbound](https://dev.to/lymah/three-token-2022-mints-in-one-week-fees-yield-and-soulbound-1nn0)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
