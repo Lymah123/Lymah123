@@ -120,7 +120,9 @@ deployed and verified on devnet.
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming from Web2, Token-2022 taught me that some of the hardest bugs aren&#39;t failed transactions; they&#39;re successful transactions with incorrect outcomes.
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face (part 2)](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face (part 1)](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
+- [Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution](https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba)
 
 Here are five mistakes I wish I&#39;d known sooner.](https://dev.to/lymah/coming-from-web2-token-2022-taught-me-that-some-of-the-hardest-bugs-arent-failed-transactions-33of)
 - [CPIs and PDA Signers: What I Built and What Actually Clicked](https://dev.to/lymah/cpis-and-pda-signers-what-i-built-and-what-actually-clicked-m6d)
