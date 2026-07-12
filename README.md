@@ -1,12 +1,15 @@
 ## Hi there, I'm Halimah Odunola! 👋 (aka LYMAH)
 
-
 <img src="https://media1.tenor.com/m/xei0iF6HWToAAAAd/pjsk-pjsk-anime.gif" width="100%" alt="PJSK Anime Programmer Animation" />
 
+Rust and backend developer exploring systems programming and AI agent
+infrastructure. I enjoy breaking down technical concepts through writing and
+contributing to open source projects.
 
-**Software Engineer | Technical Writer | Open Source Enthusiast**
-
-Passionate about crafting elegant solutions to complex problems through code. I thrive on building impactful software that makes a difference, exploring cutting-edge technologies, and actively contributing to the open source ecosystem. My mission is to create accessible and innovative applications while sharing knowledge through technical writing that bridges gaps in the developer community.
+Self-taught, with a Biochemistry degree and no formal CS background — I
+learned by building, breaking, and contributing. Core contributor to
+[statix](https://github.com/molybdenumsoftware/statix), a Nix linter now
+canonical in nixpkgs.
 
 ---
 
@@ -29,14 +32,33 @@ I regularly update this profile to ensure it accurately represents my current sk
 
 ### About Me
 
-- 🔭 **Currently:** Building projects and enhancing problem-solving skills on LeetCode.
-- 🌱 **Learning:** I am exploring system engineering.
-- 👯 **Collaborating:** Actively contributing to open source projects.
-- 🤔 **Looking for:** Resources on system programming, Nix and AI.
-- 💬 **Ask me about:** Software development, technical writing, or open source contributions.
-- 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235)
+- 🔭 **Currently:** Working through 100 Days of Solana — Anchor, Token-2022, and Rust program development.
+- 🌱 **Learning:** Deepening into AI agent infrastructure after building an on-chain agent training primitive on Solana — verifiable, tamper-proof training logs for RL agents.
+- 👯 **Collaborating:** Core contributor to [statix](https://github.com/molybdenumsoftware/statix); also contributed to TiKV and Apache Fineract.
+- 🤔 **Looking for:** Remote backend/Rust roles, and opportunities in the Nix, Solana, and agent infrastructure ecosystems.
+- 💬 **Ask me about:** Nix, Rust, Solana program development, AI agent infrastructure, or technical writing.
+- 📫 **Reach me on:** [Twitter](https://twitter.com/CodesLymah) | [LinkedIn](https://www.linkedin.com/in/harlimat-odunola-2ab261235) | [Bluesky](https://bsky.app/profile/lymahcodes.bsky.social)
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** In a world of programmer anime fans, I'm the outlier who names variables after Korean drama characters. Yes, my error messages are dramatic too.
+
+---
+
+### Featured Projects
+
+**[swarm-arena](https://github.com/Lymah123/swarm-arena)** — a permissionless
+on-chain agent training arena on Solana. Two agents compete in a Bevy ECS
+grid world; every training episode is SHA256-hashed and committed on-chain,
+making agent learning history verifiable and tamper-proof. A Q-learning agent's
+average reward climbed from 0.10 to 6.50+ across 50 episodes, with every step
+immutably logged on devnet.
+[Read the writeup →](https://dev.to/lymah/i-built-a-permissionless-on-chain-agent-training-arena-on-solana-in-3-weeks-2on2)
+
+**[PassionProof](https://github.com/Lymah123/passionproof)** — a Solana program
+that mints a soulbound Token-2022 badge for real contributions, using the
+NonTransferable + MetadataPointer extensions so the badge can never leave the
+wallet it was issued to. Built for DEV's Weekend Challenge: Passion Edition,
+deployed and verified on devnet.
+[Read the writeup →](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
 
 ---
 
@@ -49,26 +71,42 @@ I regularly update this profile to ensure it accurately represents my current sk
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 
+- **Blockchain / Web3:**
+  ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana&logoColor=white)
+  ![Anchor](https://img.shields.io/badge/-Anchor-14F195?style=flat&logo=anchor&logoColor=black)
+  ![Bevy](https://img.shields.io/badge/-Bevy-232326?style=flat&logo=bevy&logoColor=white)
+
+- **AI / ML:**
+  ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+  ![Weights & Biases](https://img.shields.io/badge/-Weights_%26_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+  ![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat&logo=ray&logoColor=white)
+
+- **AI Tools & Assistants:**
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+  ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat)
+  ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat)
+  ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
+
 - **Frameworks & Libraries:**
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   ![Phoenix](https://img.shields.io/badge/-Phoenix-400080?style=flat&logo=phoenix&logoColor=white)
 
-- **Databases:**
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-- **DevOps & Tools:**
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- **Infrastructure & Tools:**
+  ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat&logo=nixos&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- **Cloud Services:**
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+- **Databases:**
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
@@ -82,7 +120,9 @@ I regularly update this profile to ensure it accurately represents my current sk
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming from Web2, Token-2022 taught me that some of the hardest bugs aren&#39;t failed transactions; they&#39;re successful transactions with incorrect outcomes.
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face (part 2)](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face (part 1)](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
+- [Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution](https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba)
 
 Here are five mistakes I wish I&#39;d known sooner.](https://dev.to/lymah/coming-from-web2-token-2022-taught-me-that-some-of-the-hardest-bugs-arent-failed-transactions-33of)
 - [CPIs and PDA Signers: What I Built and What Actually Clicked](https://dev.to/lymah/cpis-and-pda-signers-what-i-built-and-what-actually-clicked-m6d)
