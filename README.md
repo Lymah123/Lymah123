@@ -120,13 +120,13 @@ deployed and verified on devnet.
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Solana Program Security Checklist I Wish I&#39;d Had on Day One](https://dev.to/lymah/the-solana-program-security-checklist-i-wish-id-had-on-day-one-1e8l)
 - [PassionProof — A Soulbound NFT for Consistent Open Source Contribution](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
 - [Coming from Web2, Token-2022 taught me that some of the hardest bugs aren&#39;t failed transactions; they&#39;re successful transactions with incorrect outcomes.
 
 Here are five mistakes I wish I&#39;d known sooner.](https://dev.to/lymah/coming-from-web2-token-2022-taught-me-that-some-of-the-hardest-bugs-arent-failed-transactions-33of)
 - [CPIs and PDA Signers: What I Built and What Actually Clicked](https://dev.to/lymah/cpis-and-pda-signers-what-i-built-and-what-actually-clicked-m6d)
 - [5 Token-2022 Mistakes I Made So You Don&#39;t Have To](https://dev.to/lymah/5-token-2022-mistakes-i-made-so-you-dont-have-to-5e0b)
-- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
