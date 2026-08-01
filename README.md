@@ -120,13 +120,11 @@ deployed and verified on devnet.
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of Solana: What I Actually Learned &lpar;Not What I Expected to Learn&rpar;](https://dev.to/lymah/100-days-of-solana-what-i-actually-learned-not-what-i-expected-to-learn-i8h)
 - [I Built an Autonomous On-Chain Agent on Solana: Here&#39;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge)
 - [My Solana Program Launch Checklist &lpar;Written the Day After I Actually Did It&rpar;](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d)
 - [The Solana Program Security Checklist I Wish I&#39;d Had on Day One](https://dev.to/lymah/the-solana-program-security-checklist-i-wish-id-had-on-day-one-1e8l)
 - [PassionProof — A Soulbound NFT for Consistent Open Source Contribution](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
-- [Coming from Web2, Token-2022 taught me that some of the hardest bugs aren&#39;t failed transactions; they&#39;re successful transactions with incorrect outcomes.
-
-Here are five mistakes I wish I&#39;d known sooner.](https://dev.to/lymah/coming-from-web2-token-2022-taught-me-that-some-of-the-hardest-bugs-arent-failed-transactions-33of)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
