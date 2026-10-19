@@ -120,11 +120,11 @@ deployed and verified on devnet.
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PawPitch: A Local AI Pitch Writer That Has to Earn Its Claims](https://dev.to/lymah/pawpitch-a-local-ai-pitch-writer-that-has-to-earn-its-claims-25f6)
 - [Ground Truth Walks: I Asked a Local AI What I&#39;d See. Then I Went Outside](https://dev.to/lymah/ground-truth-walks-i-asked-a-local-ai-what-id-see-then-i-went-outside-3ala)
 - [Rayor&#39;s Treat Assistant: a local AI price-list helper for my neighbour&#39;s food business](https://dev.to/lymah/rayors-treat-assistant-a-local-ai-price-list-helper-for-my-neighbours-food-business-22e5)
 - [100 Days of Solana: What I Actually Learned &lpar;Not What I Expected to Learn&rpar;](https://dev.to/lymah/100-days-of-solana-what-i-actually-learned-not-what-i-expected-to-learn-i8h)
 - [I Built an Autonomous On-Chain Agent on Solana: Here&#39;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge)
-- [My Solana Program Launch Checklist &lpar;Written the Day After I Actually Did It&rpar;](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
