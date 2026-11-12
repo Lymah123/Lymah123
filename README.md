@@ -120,11 +120,11 @@ deployed and verified on devnet.
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2026: Four Years In, Five Projects Built, and a Different Kind of October](https://dev.to/lymah/hacktoberfest-2026-four-years-in-five-projects-built-and-a-different-kind-of-october-4o50)
 - [The AI Understood My Payment Request. My Rust Code Refused It.](https://dev.to/lymah/the-ai-understood-my-payment-request-my-rust-code-refused-it-59c5)
 - [An ofrenda for the Rust crates that went quiet](https://dev.to/lymah/an-ofrenda-for-the-rust-crates-that-went-quiet-597l)
 - [The Model Proposes, Rust Verifies: Triaging Job Postings with a Local Gemma](https://dev.to/lymah/the-model-proposes-rust-verifies-triaging-job-postings-with-a-local-gemma-1gen)
 - [PawPitch: A Local AI Pitch Writer That Has to Earn Its Claims](https://dev.to/lymah/pawpitch-a-local-ai-pitch-writer-that-has-to-earn-its-claims-25f6)
-- [Ground Truth Walks: I Asked a Local AI What I&#39;d See. Then I Went Outside](https://dev.to/lymah/ground-truth-walks-i-asked-a-local-ai-what-id-see-then-i-went-outside-3ala)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles on my blog](https://dev.to/lymah)
